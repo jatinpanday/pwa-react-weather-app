@@ -1,3 +1,7 @@
+You can also view this App on your Desktop as well on your Mobile phones with the link below as i deployed it with netlify.
+
+link - https://weather-app-by-jatin-panday.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
